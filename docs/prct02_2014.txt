@@ -1,1 +1,9 @@
 Trabajo en equipo con git
+
+Pregunta 49
+
+Compilación
+Proceso de traducción de un código fuente (escrito en un lenguaje de programación de alto nivel) a lenguaje máquina (código objeto) para que pueda ser ejecutado por la computadora.
+
+Interpretación
+Los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan.
