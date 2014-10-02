@@ -7,3 +7,19 @@ Proceso de traducción de un código fuente (escrito en un lenguaje de programac
 
 Interpretación
 Los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan.
+
+Pregunta 54
+
+Tiene permisos de lectura, escritura y ejecución tanto para el propietario como para el grupo.
+Sí se puede ejecutar directamente.
+
+Pregunta 55
+
+Tiene permisos de lectura y escritura pero no de ejecución.
+No se puede ejecutar directamente.
+
+Pregunta 56
+
+La principal diferencia es que el archivo finalizado en .sh está escrito para la bash, y el terminado en .rb está escrito en ruby.
+
+Que va a ser ejecutado por la shell.
